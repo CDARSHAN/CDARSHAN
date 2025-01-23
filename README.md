@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CDARSHAN
-- 👀 I’m interested in Android Programming, Artificial Intelligence and Data Science
-- 🌱 I’m currently Diploma Graduate 
-- 💞️ I’m looking to collaborate on Android App Development
+- 👀 Bachelor of Engineering in Artificial Intelligence and Data Science
+- 🌱 Pursuing M'tech Information Security from Somaiya College of Engineering
 - 📫 Mail me at darshanchindarkar234@gmail.com
 
 <!---
